@@ -1,19 +1,10 @@
 from flask import Flask, jsonify
 import requests
 import response
-app = Flask(__name__)
+app = Flask(__name__)https://github.com/finnend/requestget/blob/main/app.py
 
        
 Nombre_1 = {
-   "personas":[{
-    "id": 1,
-    "Nombres": "Cristóbal Andrés",
-    "Rut": 212824291,
-    "apellidoPaterno": "Soto",
-    "apellidoMaterno": "Maureira",
-    "fechadenacimiento": "22/04/2003",
-    "Sueldo": 1000
-    },
 
     {
         "id": 2,
